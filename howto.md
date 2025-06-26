@@ -346,3 +346,13 @@ _문의사항 또는 수정 요청은 블로그에 댓글 남겨주시거나 이
 
 [VER2.1]
 ![choiiis github blog main](/assets/images/posts_img/readme/ver2_1_main.png)
+
+### 개발 기록
+
+- ML/AI (머신러닝/인공지능)
+- Computer Vision
+- NLP
+- Development (개발)
+- Tools & Tips
+- Projects
+- Etc
