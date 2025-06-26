@@ -3,20 +3,20 @@ title: "[Python] 파이썬 모듈과 패키지 정리"
 excerpt: "파이썬 모듈과 패키지는 기본 중의 기본이나 꼭 쓰려고 하면 하나씩 헷갈려서 이번 기회에 정리해보았다. 정리하고 보니, 지피티한테 그간 질문했던 것의 모음집인 것 같다."
 
 categories:
-  - Python
+  - Development
 tags:
   - python
   - module
   - package
   - import
 
-permalink: /python/python-modules-packages/
+permalink: /development/python-modules-packages/
 
 toc: true
 toc_sticky: true
 
-date: 2024-12-19
-last_modified_at: 2024-12-19
+date: 2024-12-20
+last_modified_at: 2024-12-20
 ---
 
 파이썬 모듈과 패키지는 기본 중의 기본이나 꼭 쓰려고 하면 하나씩 헷갈려서 이번 기회에 정리해보았다. 정리하고 보니, 지피티한테 그간 질문했던 것의 모음집인 것 같다.
