@@ -15,8 +15,8 @@ permalink: /development/python-modules-packages/
 toc: true
 toc_sticky: true
 
-date: 2024-12-20
-last_modified_at: 2024-12-20
+date: 2025-06-26
+last_modified_at: 2025-06-26
 ---
 
 파이썬 모듈과 패키지는 기본 중의 기본이나 꼭 쓰려고 하면 하나씩 헷갈려서 이번 기회에 정리해보았다. 정리하고 보니, 지피티한테 그간 질문했던 것의 모음집인 것 같다.
